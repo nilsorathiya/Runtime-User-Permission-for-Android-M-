@@ -5,3 +5,8 @@ This sample shows runtime permissions available in Android M and above. It shows
 - Android SDK v23
 - Android Build Tools v23.1.1
 - Android Support Repository
+
+# ScreenShots
+https://github.com/nilsorathiya/RuntimePermissionForAndroidMPlus/blob/master/screenshots/alert_permission.png
+https://github.com/nilsorathiya/RuntimePermissionForAndroidMPlus/blob/master/screenshots/alert_permission_granted.png
+https://github.com/nilsorathiya/RuntimePermissionForAndroidMPlus/blob/master/screenshots/alert_permission_not_granted.png
