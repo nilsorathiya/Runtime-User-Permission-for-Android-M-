@@ -8,5 +8,5 @@ This sample shows runtime permissions available in Android M and above. It shows
 
 # ScreenShots
 ![Alt text](/screenshots/alert_permission.png?raw=true "Optional Title")
-https://github.com/nilsorathiya/RuntimePermissionForAndroidMPlus/blob/master/screenshots/alert_permission_granted.png
-https://github.com/nilsorathiya/RuntimePermissionForAndroidMPlus/blob/master/screenshots/alert_permission_not_granted.png
+![Alt text](/screenshots/alert_permission_granted.png?raw=true "Optional Title")
+![Alt text](/screenshots/alert_permission_not_granted.png?raw=true "Optional Title")
